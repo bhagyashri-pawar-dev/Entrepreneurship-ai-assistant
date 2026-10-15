@@ -1,0 +1,8 @@
+{
+  "name": "Entrepreneurship AI Assistant",
+  "description": "AI-powered assistant for college students to validate business ideas, plan startups, calculate budgets, and build 7-day action plans with English and Marathi support for AI CIE-3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
